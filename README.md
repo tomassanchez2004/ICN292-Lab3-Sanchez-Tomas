@@ -1,7 +1,7 @@
 # ICN292-Lab3-Sanchez-Tomas
 
 - **Nombre:** Tomás Sánchez Ferrari
-- **RUT:** 21.569.546-8
+- **RUT(S):** 546
 - **Asignatura:** Sistemas de Información para la Gestión (ICN292)
 -**Paralelo:** 100
 ## Descripción
