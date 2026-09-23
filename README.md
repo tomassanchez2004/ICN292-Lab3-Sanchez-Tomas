@@ -3,7 +3,8 @@
 - **Nombre:** Tomás Sánchez Ferrari
 - **RUT(S):** 546
 - **Asignatura:** Sistemas de Información para la Gestión (ICN292)
--**Paralelo:** 100
+- **Paralelo:** 100
+- **Fecha:** 23/09/2026 
 ## Descripción
 Repositorio correspondiente al Laboratorio 3 de la asignatura Sistemas de Información para la Gestión.
 El trabajo desarrolla un MVP de automatización para la gestión de solicitudes de devolución de AndesHogar SpA utilizando n8n.
